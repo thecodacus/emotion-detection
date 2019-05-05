@@ -20,8 +20,8 @@ I made this project structured almost in similar to my [Face Recognition](https:
 ### Running the tests
 * run the datasetGenerator.py and enter the face expression that you want to add to your dataset.
 * press "S" once you are ready to save/capture the expression, keep capturing save expression in different lighting and background
-* press "Q" to quit or it will automatically exit after 20 samples
-once you have saved a set of samples for one expression, repeat the process for more expression 
+* press "Q" to quit or it will automatically exit after 20 samples.
+Once you have saved a set of samples for one expression, repeat the process for more expressions
 
 * run trainer.py. it till take some time to complete the training wait until it completes 
 * run detector.py
